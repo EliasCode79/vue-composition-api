@@ -6,7 +6,8 @@ import viteLogo from '/vite.svg';
 // import './bases/03-arrays';
 // import './bases/04-funtions';
 // import './bases/05-deses-obj';
-import './bases/07-im-exp';
+// import './bases/07-im-exp';
+import './bases/08-promesas';
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
