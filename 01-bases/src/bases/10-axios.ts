@@ -10,7 +10,7 @@ export const giphyApi = axios.create({
 	},
 });
 
-giphyApi
-	.get<GIFResponse>('/random')
-	.then((resp) => console.log(resp.data.data.images.downsized.url))
-	.catch((error) => console.log(error));
+// giphyApi
+// 	.get<GIFResponse>('/random')
+// 	.then((resp) => console.log(resp.data.data.images.downsized.url))
+// 	.catch((error) => console.log(error));
