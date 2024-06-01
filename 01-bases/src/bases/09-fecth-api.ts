@@ -1,4 +1,4 @@
-import { GIFResponse } from '../interfaces/gif.response';
+import type { GIFResponse } from '../interfaces/gif.response';
 
 const apiKey = 'ZsvDWspQk3I4PbiqRRem51KjtMgSVYo6';
 
