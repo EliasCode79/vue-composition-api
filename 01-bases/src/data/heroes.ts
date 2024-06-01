@@ -1,5 +1,5 @@
 // utiliza las interfaces cuando este se vaya a expandir, q en un futuro puedas agregar mas elementos
-interface hero {
+export interface hero {
 	id: number;
 	name: string;
 	owner: onwer;
